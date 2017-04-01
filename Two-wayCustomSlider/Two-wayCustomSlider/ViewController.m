@@ -26,6 +26,7 @@
     [super viewDidLoad];
     leftValue=0;
     rightValue=100;
+    self.view.backgroundColor=[UIColor yellowColor];
     [self setUpView];
 }
 
